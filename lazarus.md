@@ -1,7 +1,5 @@
 # ☩ Lazarus Delacroix: O Último Templário
 
-## **Infância e Adolescência – Entre o Aço e a Fé**  
-
 ---
 
 ## **🏰 O Legado dos Delacroix**  
@@ -21,7 +19,6 @@ Entre a visão **impiedosa de seu pai** e a **compaixão de sua mãe**, Lazarus 
 
 Desde cedo, Lazarus **aprendeu tanto a caçar quanto a compreender o peso da sua missão**.  
 
----
 
 ## **🩸 A Noite da Ruína**  
 
@@ -54,7 +51,6 @@ Seu pai, mortalmente ferido, **encarou Lazarus uma última vez**.
 
 Então, **o fogo consumiu tudo**.  
 
----
 
 ## **⚔ O Sobrevivente e o Santo Ofício**  
 
@@ -225,14 +221,14 @@ Lazarus Delacroix **não era mais um inquisidor da Santa Fé**.
 Agora, ele era **o último templário**, e sua missão apenas começava.
 
 
-## **☩ O Avatar e Seus Focos**
+## **☩ O Avatar**
 
-### **☩ O Avatar**
 Nos momentos de oração e meditação, Lazarus vê sempre a mesma figura: **um cavaleiro templário**, imponente e envolto em luz dourada. Seu rosto nunca é visível, mas sua presença transmite força, convicção e um chamado para algo maior. Ele empunha uma **espada flamejante**, símbolo da justiça e da fé, e suas palavras são poucas, mas poderosas. **O Avatar nunca responde perguntas com respostas diretas — ele apenas guia, testa e fortalece.**
 
 Ele é tanto um guia quanto um desafio, pois **não permite que Lazarus ceda à dúvida ou ao medo**.
 
-### **☩ Focos de Poder**
+## **☩ Focos de Poder**
+
 Agora desperto, Lazarus utiliza uma combinação de fé, rituais e armas consagradas para canalizar seu poder:
 
 - **Amuletos Sagrados** – Relíquias cristãs que servem como condutores de sua magia.
